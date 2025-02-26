@@ -2,10 +2,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/asmalaaribi13/asmalaaribi13/main/banner.png" alt="Banner" width="100%"/>
-</p>
-
 ## 🚀 About Me
 
 I’m a passionate **ERP & Business Intelligence Specialist** with a strong ability to transform raw data into **actionable insights**. I excel at crafting intuitive dashboards, optimizing business processes, and delivering tailored solutions that align with business goals.
@@ -44,9 +40,9 @@ From the moment I wrote my first line of code, I was fascinated by how technolog
 
 ## 📫 Let's Connect!
 
-🌍 **LinkedIn:** [linkedin.com/in/yourprofile](#)  
-📩 **Email:** your.email@example.com  
-🚀 **Portfolio:** [yourwebsite.com](#)  
+🌍 **LinkedIn:** [linkedin.com/in/asmalaaribi](#)  
+📩 **Email:** asma.laaribi@outlook.com 
+🚀 **Portfolio:** [asmaviz.wixsite.com/portfolio](#)  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/asmalaaribi13/asmalaaribi13/main/github-metrics.svg" alt="GitHub Metrics"/>
