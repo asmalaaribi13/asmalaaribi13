@@ -42,7 +42,7 @@ From the moment I wrote my first line of code, I was fascinated by how technolog
 
 🌍 **LinkedIn:** [linkedin.com/in/asmalaaribi](#)  
 📩 **Email:** asma.laaribi@outlook.com 
-🚀 **Portfolio:** [asmaviz.wixsite.com](#)  
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/asmalaaribi13/asmalaaribi13/main/github-metrics.svg" alt="GitHub Metrics"/>
