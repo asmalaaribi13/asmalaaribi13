@@ -30,11 +30,11 @@ From the moment I wrote my first line of code, I was fascinated by how technolog
 
 ### **Business Intelligence & Data Analytics:**
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?&style=for-the-badge&logo=power-bi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%230074C8.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
+![Talend](https://img.shields.io/badge/Talend-%2300A8E1.svg?&style=for-the-badge&logo=talend&logoColor=white)
 
 ### **Other Technologies:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%230074C8.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
