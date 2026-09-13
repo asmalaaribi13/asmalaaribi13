@@ -24,7 +24,7 @@ From the moment I wrote my first line of code, I was fascinated by how technolog
 
 ## 🛠 Tech Stack & Tools
 
-### **ERP Systems:**
+### **ERP/EPM Systems:**
 ![SAP S/4HANA](https://img.shields.io/badge/SAP%20S%2F4HANA-%23007dba.svg?&style=for-the-badge&logo=sap&logoColor=white)
 ![CCH Tagetik](https://img.shields.io/badge/CCH%20Tagetik-%23007dba.svg?style=for-the-badge)
 
