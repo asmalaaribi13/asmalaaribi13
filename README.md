@@ -26,8 +26,8 @@ From the moment I wrote my first line of code, I was fascinated by how technolog
 
 ### **ERP Systems:**
 ![SAP](https://img.shields.io/badge/SAP-%23007dba.svg?&style=for-the-badge&logo=sap&logoColor=white)
-![Microsoft Dynamics 365](https://img.shields.io/badge/Microsoft%20Dynamics%20365-%23007dba.svg?&style=for-the-badge&logo=microsoft&logoColor=white)
-+![CCH Tagetik](https://img.shields.io/badge/CCH%20Tagetik-%23007dba.svg?&style=for-the-badge&logoColor=white)
+![CCH Tagetik](https://img.shields.io/badge/CCH%20Tagetik-%23007dba.svg?&style=for-the-badge&logoColor=white)
+
 
 ### **Business Intelligence & Data Analytics:**
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?&style=for-the-badge&logo=power-bi&logoColor=white)
